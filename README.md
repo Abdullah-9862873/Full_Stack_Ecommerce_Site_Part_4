@@ -27,7 +27,7 @@
 			    console.log(`Server is listening on http://localhost:${process.env.PORT}`);
 			})
 ```
-Step 8: Make a folder inside "backend" by the name "config" and inside config, make a file "config.env" and inside config.env type
+**Step 8:** Make a folder inside "backend" by the name "config" and inside config, make a file "config.env" and inside config.env type
 ```
 			PORT=4000
 ```
